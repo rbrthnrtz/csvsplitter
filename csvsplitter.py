@@ -1,6 +1,5 @@
 from splitterfunc import split
 import PySimpleGUI as sg
-import os.path
 
 sg.theme('Reddit')
 
